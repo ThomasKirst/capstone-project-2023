@@ -7,15 +7,6 @@ assignees: ThomasKirst
 
 ---
 
----
-name: User Story template
-about: Used for User Stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## Value proposition
 
 As a [role]
